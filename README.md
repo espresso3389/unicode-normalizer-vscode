@@ -26,3 +26,10 @@ None.
 
 First release.
 
+## GitHub URL
+
+https://github.com/espresso3389/unicode-normalizer-vscode
+
+## Marketplace URL
+
+https://marketplace.visualstudio.com/items?itemName=espresso3389.unicode-normalizer
