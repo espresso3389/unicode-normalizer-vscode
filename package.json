@@ -12,6 +12,14 @@
     ],
     "icon": "sushi.png",
     "license": "SEE LICENSE IN LICENSE.md",
+    "bugs": {
+        "url": "https://github.com/espresso3389/unicode-normalizer-vscode/issues"
+    },
+    "homepage": "https://github.com/espresso3389/unicode-normalizer-vscode",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/espresso3389/unicode-normalizer-vscode.git"
+    },
     "activationEvents": [
         "onCommand:unicode-normalizer.unicodeNormalizeD",
         "onCommand:unicode-normalizer.unicodeNormalizeC",
