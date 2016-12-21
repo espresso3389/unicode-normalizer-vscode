@@ -7,7 +7,7 @@ This is a Visual Studio Code extension, which does Unicode Normalization on sele
 
 ## Features
 
-After selecting some of texts, open Command Palette by `Ctrl-Shift-P` (Windows) or `⌘-Shift-P` and then select one of the following commands (typically just type `NFD`, `NFC`, `NFKC`, or `NFKD`):
+After selecting some of texts, open Command Palette by `Ctrl-Shift-P` (Windows) or `⌘-Shift-P` (macOS) and then select one of the following commands (typically just type `NFD`, `NFC`, `NFKC`, or `NFKD`):
 
 - Unicode Normalization Form D (NFD)
 - Unicode Normalization Form C (NFC)
